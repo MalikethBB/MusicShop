@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ErnestSongsAlbumsShop_L00174807.props" />
+</Project>
