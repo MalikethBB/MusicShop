@@ -26,24 +26,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\L00174807\Downloads\MusicShop\ErnestSongsAlbumsShop_L00174807\ErnestSongsAlbumsShop_L00174807
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/L00174807/Downloads/MusicShop/ErnestSongsAlbumsShop_L00174807/ErnestSongsAlbumsShop_L00174807/Pages/Admin/Genres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cR2VucmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/L00174807/Downloads/MusicShop/ErnestSongsAlbumsShop_L00174807/ErnestSongsAlbumsShop_L00174807/Pages/Admin/Genres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cR2VucmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/L00174807/Downloads/MusicShop/ErnestSongsAlbumsShop_L00174807/ErnestSongsAlbumsShop_L00174807/Pages/Admin/Genres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cR2VucmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/L00174807/Downloads/MusicShop/ErnestSongsAlbumsShop_L00174807/ErnestSongsAlbumsShop_L00174807/Pages/Admin/Genres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cR2VucmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/L00174807/Downloads/MusicShop/ErnestSongsAlbumsShop_L00174807/ErnestSongsAlbumsShop_L00174807/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/L00174807/Downloads/MusicShop/ErnestSongsAlbumsShop_L00174807/ErnestSongsAlbumsShop_L00174807/Pages/Genres/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/L00174807/Downloads/MusicShop/ErnestSongsAlbumsShop_L00174807/ErnestSongsAlbumsShop_L00174807/Pages/Genres/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVzXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/L00174807/Downloads/MusicShop/ErnestSongsAlbumsShop_L00174807/ErnestSongsAlbumsShop_L00174807/Pages/Genres/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVzXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/L00174807/Downloads/MusicShop/ErnestSongsAlbumsShop_L00174807/ErnestSongsAlbumsShop_L00174807/Pages/Genres/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/L00174807/Downloads/MusicShop/ErnestSongsAlbumsShop_L00174807/ErnestSongsAlbumsShop_L00174807/Pages/Index.cshtml]

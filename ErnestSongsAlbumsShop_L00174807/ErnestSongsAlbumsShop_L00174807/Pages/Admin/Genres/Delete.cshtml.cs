@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using ErnestSongsAlbumsShop.Models.Models;
 using ErnestSongsAlbumsShop.DataAccess.DataAccess;
 
-namespace ErnestSongsAlbumsShop_L00174807.Pages.Genres
+namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Genres
 {
     public class DeleteModel : PageModel
     {
