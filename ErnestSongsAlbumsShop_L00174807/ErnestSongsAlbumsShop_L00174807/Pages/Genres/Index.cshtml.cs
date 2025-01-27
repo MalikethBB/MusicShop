@@ -1,5 +1,5 @@
-using ErnestSongsAlbumsShop_L00174807.DataAccess;
-using ErnestSongsAlbumsShop_L00174807.Models;
+using ErnestSongsAlbumsShop.DataAccess.DataAccess;
+using ErnestSongsAlbumsShop.Models.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System;

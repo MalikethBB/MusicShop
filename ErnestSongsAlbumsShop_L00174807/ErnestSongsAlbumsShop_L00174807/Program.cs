@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using ErnestSongsAlbumsShop_L00174807.DataAccess;
 using System;
+using ErnestSongsAlbumsShop.DataAccess.DataAccess;
 
 var builder = WebApplication.CreateBuilder(args);
 
