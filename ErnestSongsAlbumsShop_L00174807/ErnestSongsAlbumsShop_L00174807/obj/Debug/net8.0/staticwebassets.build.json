@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UFMgbNuSM3zD3J16ZHqUuXkECSFMnrxi8C2f9FW/9Mw=",
+  "Hash": "DxcWF8YcGZZDuhVlJFzQEEdmbvOU5JPwkq7p1DYvNiQ=",
   "Source": "ErnestSongsAlbumsShop_L00174807",
   "BasePath": "_content/ErnestSongsAlbumsShop_L00174807",
   "Mode": "Default",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ErnestSongsAlbumsShop_L00174807.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\wwwroot\\css\\bootstrapLux.css",
+      "Identity": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\wwwroot\\css\\bootstrapZephyr.css",
       "SourceId": "ErnestSongsAlbumsShop_L00174807",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\wwwroot\\",
       "BasePath": "_content/ErnestSongsAlbumsShop_L00174807",
-      "RelativePath": "css/bootstrapLux.css",
+      "RelativePath": "css/bootstrapZephyr.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrapLux.css"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrapZephyr.css"
     },
     {
       "Identity": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\wwwroot\\css\\site.css",
