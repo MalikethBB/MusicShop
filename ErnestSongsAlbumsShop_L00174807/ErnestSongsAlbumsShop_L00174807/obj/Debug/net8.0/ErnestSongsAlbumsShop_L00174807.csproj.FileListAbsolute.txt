@@ -849,3 +849,7 @@ C:\Users\L00174807\Downloads\MusicShop\ErnestSongsAlbumsShop_L00174807\ErnestSon
 C:\Users\L00174807\Downloads\MusicShop\ErnestSongsAlbumsShop_L00174807\ErnestSongsAlbumsShop_L00174807\obj\Debug\net8.0\ErnestSongsAlbumsShop_L00174807.pdb
 C:\Users\L00174807\Downloads\MusicShop\ErnestSongsAlbumsShop_L00174807\ErnestSongsAlbumsShop_L00174807\obj\Debug\net8.0\ErnestSongsAlbumsShop_L00174807.genruntimeconfig.cache
 C:\Users\L00174807\Downloads\MusicShop\ErnestSongsAlbumsShop_L00174807\ErnestSongsAlbumsShop_L00174807\obj\Debug\net8.0\ref\ErnestSongsAlbumsShop_L00174807.dll
+C:\Users\ernes\Desktop\MusicShop\ErnestSongsAlbumsShop_L00174807\ErnestSongsAlbumsShop_L00174807\bin\Debug\net8.0\ErnestSongsAlbumsShop.DataAccess.dll
+C:\Users\ernes\Desktop\MusicShop\ErnestSongsAlbumsShop_L00174807\ErnestSongsAlbumsShop_L00174807\bin\Debug\net8.0\ErnestSongsAlbumsShop.Models.dll
+C:\Users\ernes\Desktop\MusicShop\ErnestSongsAlbumsShop_L00174807\ErnestSongsAlbumsShop_L00174807\bin\Debug\net8.0\ErnestSongsAlbumsShop.DataAccess.pdb
+C:\Users\ernes\Desktop\MusicShop\ErnestSongsAlbumsShop_L00174807\ErnestSongsAlbumsShop_L00174807\bin\Debug\net8.0\ErnestSongsAlbumsShop.Models.pdb
