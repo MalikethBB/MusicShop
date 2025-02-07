@@ -3,30 +3,31 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using ErnestSongsAlbumsShop.Models.Models;
 using ErnestSongsAlbumsShop.DataAccess.DataAccess;
+using ErnestSongsAlbumsShop.DataAccess.Repository;
 
 namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Genres
 {
     public class DeleteModel : PageModel
     {
-        private readonly MusicDBContext _dbContext;
+        private readonly IGenreRepo _genreRepo;
 
-        public DeleteModel(MusicDBContext dbContext)
+        public DeleteModel(IGenreRepo genreRepo)
         {
-            _dbContext = dbContext;
+            _genreRepo = genreRepo;
         }
 
         public Genre Genre { get; set; }
         public void OnGet(int id)
         {
-            Genre = _dbContext.Genres.Find(id);
+            Genre = _genreRepo.Get(id);
         }
 
-        public async Task<IActionResult> OnPost(Genre genre)
+        public IActionResult OnPost(Genre genre)
         {
             if (ModelState.IsValid)
             {
-                _dbContext.Genres.Remove(genre);
-                await _dbContext.SaveChangesAsync();
+                _genreRepo.Delete(genre);
+                _genreRepo.SaveAll();
             }
             return RedirectToPage("Index");
         }

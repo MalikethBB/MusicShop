@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ErnestSongsAlbumsShop.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+593b355d2749461e138fd4764f47f1c6e416c221")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1559f6ff4c6b1cc5339d06ba1938bb9dea01b4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ErnestSongsAlbumsShop.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ErnestSongsAlbumsShop.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

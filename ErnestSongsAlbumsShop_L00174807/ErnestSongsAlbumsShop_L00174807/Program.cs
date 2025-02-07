@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using System;
 using ErnestSongsAlbumsShop.DataAccess.DataAccess;
+using ErnestSongsAlbumsShop.DataAccess.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,8 @@ builder.Services.AddRazorPages();
 // needs package entityframeworkcore.sqlserver
 builder.Services.AddDbContext<MusicDBContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IGenreRepo, GenreRepo>();
 
 var app = builder.Build();
 
