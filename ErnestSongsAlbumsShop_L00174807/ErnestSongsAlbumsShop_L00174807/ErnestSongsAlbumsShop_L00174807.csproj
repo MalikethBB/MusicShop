@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ErnestSongsAlbumsShop.DataAccess\ErnestSongsAlbumsShop.DataAccess.csproj" />
+    <ProjectReference Include="..\ErnestSongsAlbumsShop.Services\ErnestSongsAlbumsShop.Services.csproj" />
   </ItemGroup>
 
 </Project>

@@ -2,16 +2,17 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using ErnestSongsAlbumsShop.DataAccess.DataAccess;
 using ErnestSongsAlbumsShop.Models.Models;
+using ErnestSongsAlbumsShop.Services;
 
 namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Genres 
 {
     public class CreateModel : PageModel
     {
-        private readonly MusicDBContext _dbContext;
+        private readonly IUnitOfWork _unitOfWork;
 
-        public CreateModel(MusicDBContext dbContext)
+        public CreateModel(IUnitOfWork unitOfWork)
         {
-            _dbContext = dbContext;
+            _unitOfWork = unitOfWork;
         }
 
         public Genre Genre{ get; set; }
@@ -19,12 +20,12 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Genres
         {
         }
 
-        public async Task<IActionResult> OnPost(Genre genre)
+        public IActionResult OnPost(Genre genre)
         {
             if (ModelState.IsValid)
             {
-                await _dbContext.Genres.AddAsync(genre);
-                await _dbContext.SaveChangesAsync();
+                _unitOfWork.GenreRepo.Add(genre);
+                _unitOfWork.Save();
             }
             return RedirectToPage("Index");
         }
