@@ -9,6 +9,7 @@
       "ErnestSongsAlbumsShop_L00174807/1.0.0": {
         "dependencies": {
           "ErnestSongsAlbumsShop.DataAccess": "1.0.0",
+          "ErnestSongsAlbumsShop.Services": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.1"
@@ -1059,6 +1060,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "ErnestSongsAlbumsShop.Services/1.0.0": {
+        "dependencies": {
+          "ErnestSongsAlbumsShop.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "ErnestSongsAlbumsShop.Services.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1627,6 +1639,11 @@
       "sha512": ""
     },
     "ErnestSongsAlbumsShop.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ErnestSongsAlbumsShop.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,6 +1,7 @@
 using ErnestSongsAlbumsShop.DataAccess.DataAccess;
 using ErnestSongsAlbumsShop.DataAccess.Repository;
 using ErnestSongsAlbumsShop.Models.Models;
+using ErnestSongsAlbumsShop.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System;
@@ -9,16 +10,16 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Genres
 {
     public class IndexModel : PageModel
     {
-        private readonly IGenreRepo _genreRepo;
+        private readonly IUnitOfWork _unitOfWork;
         public IEnumerable<Genre> Genres;
 
-        public IndexModel(IGenreRepo genreRepo)
+        public IndexModel(IUnitOfWork unitOfWork)
         {
-            _genreRepo = genreRepo;
+            _unitOfWork = unitOfWork;
         }
         public void OnGet()
         {
-            Genres = _genreRepo.GetAll();
+            Genres = _unitOfWork.GenreRepo.GetAll();
         }
     }
 }
