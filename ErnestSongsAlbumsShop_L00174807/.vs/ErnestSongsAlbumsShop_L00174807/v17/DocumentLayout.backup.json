@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEEE36C-C9A3-438A-84EA-BA6BA2589C1B}|ErnestSongsAlbumsShop.Services\\ErnestSongsAlbumsShop.Services.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,48 +23,108 @@
       "RelativeMoniker": "D:0:0:{4DEEE36C-C9A3-438A-84EA-BA6BA2589C1B}|ErnestSongsAlbumsShop.Services\\ErnestSongsAlbumsShop.Services.csproj|solutionrelative:ernestsongsalbumsshop.services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\repository\\songrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\repository\\songrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\repository\\genrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\repository\\genrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\repository\\igenrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\repository\\igenrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\migrations\\musicdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\migrations\\musicdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250209211745_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250209211745_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\songs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B38C5-109A-4C50-ABFF-93DE51AA1B12}|ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.models\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4B38C5-109A-4C50-ABFF-93DE51AA1B12}|ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj|solutionrelative:ernestsongsalbumsshop.models\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\dataaccess\\musicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\dataaccess\\musicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B38C5-109A-4C50-ABFF-93DE51AA1B12}|ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.models\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4B38C5-109A-4C50-ABFF-93DE51AA1B12}|ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj|solutionrelative:ernestsongsalbumsshop.models\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\repository\\isongrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\repository\\isongrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\repository\\genrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\repository\\genrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\repository\\igenrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\repository\\igenrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\migrations\\musicdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\migrations\\musicdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\wwwroot\\css\\bootstrapzephyr.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -79,28 +135,12 @@
       "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\admin\\genres\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\migrations\\20250127142048_alteringfiles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\migrations\\20250127142048_alteringfiles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\dataaccess\\musicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\dataaccess\\musicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F4B38C5-109A-4C50-ABFF-93DE51AA1B12}|ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.models\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F4B38C5-109A-4C50-ABFF-93DE51AA1B12}|ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj|solutionrelative:ernestsongsalbumsshop.models\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -134,6 +174,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop_l00174807\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2E33181F-85C8-44A9-95A6-5F44C1473F30}|ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj|solutionrelative:ernestsongsalbumsshop_l00174807\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\migrations\\20250209211745_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\migrations\\20250209211745_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|c:\\users\\ernes\\desktop\\musicshop\\ernestsongsalbumsshop_l00174807\\ernestsongsalbumsshop.dataaccess\\migrations\\20250216210653_test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1537B-514F-4C78-8715-65DAE1D20892}|ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj|solutionrelative:ernestsongsalbumsshop.dataaccess\\migrations\\20250216210653_test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -143,202 +191,190 @@
       "DocumentGroups": [
         {
           "DockedWidth": 170,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:16:33.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Program.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Program.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Program.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:07:21.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.Services\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\UnitOfWork.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop.Services\\UnitOfWork.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswBAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T21:00:12.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:45:26.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAhwB4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:14:38.343Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Create.cshtml",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Create.cshtml",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T20:55:49.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Error.cshtml.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Error.cshtml.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Error.cshtml.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Error.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Create.cshtml.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:54:48.591Z",
+              "WhenOpened": "2025-02-16T20:56:20.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.Services\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\IUnitOfWork.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop.Services\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAIAAAAAAAAAA==",
+              "Title": "SongRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\SongRepo.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Repository\\SongRepo.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\SongRepo.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Repository\\SongRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T20:59:03.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GenreRepo.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\GenreRepo.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Repository\\GenreRepo.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\GenreRepo.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Repository\\GenreRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T12:52:26.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IGenreRepo.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\IGenreRepo.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Repository\\IGenreRepo.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\IGenreRepo.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Repository\\IGenreRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T12:52:14.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\Repository.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Repository\\Repository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T12:53:03.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:39:18.724Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Repository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\IRepository.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Repository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T12:52:50.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml",
-              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T16:44:38.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MusicDBContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Migrations\\MusicDBContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Migrations\\MusicDBContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Migrations\\MusicDBContextModelSnapshot.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Migrations\\MusicDBContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T14:38:57.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml.cs",
               "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:18:09.439Z",
+              "WhenOpened": "2025-01-22T16:18:09.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T16:10:46.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.Services\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\IUnitOfWork.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.Services\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:59:03.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.Services\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\UnitOfWork.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.Services\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:00:12.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Index.cshtml.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:38:02.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20250209211745_test5.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250209211745_test5.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250209211745_test5.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250209211745_test5.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250209211745_test5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T21:17:45.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T16:45:26.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Index.cshtml",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Index.cshtml",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T21:09:59.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Edit.cshtml.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:37:51.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T16:44:38.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:16:33.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T16:16:19.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:14:38.343Z"
             },
             {
               "$type": "Document",
@@ -348,13 +384,217 @@
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml",
               "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml",
               "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-22T16:13:15.183Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Delete.cshtml.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:37:38.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Delete.cshtml",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T20:37:31.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Edit.cshtml",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Songs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T20:37:45.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T16:09:59.16Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.Models\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\Models\\Song.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.Models\\Models\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:35:25.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISongRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\ISongRepo.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Repository\\ISongRepo.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\ISongRepo.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Repository\\ISongRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:39:11.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.Models\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\Models\\Genre.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.Models\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:25:32.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MusicDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\DataAccess\\MusicDBContext.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\DataAccess\\MusicDBContext.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\DataAccess\\MusicDBContext.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\DataAccess\\MusicDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:25:31.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250216210653_test3.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250216210653_test3.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250216210653_test3.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250216210653_test3.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250216210653_test3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:06:53.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenreRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\GenreRepo.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Repository\\GenreRepo.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\GenreRepo.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Repository\\GenreRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:52:26.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\IRepository.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:52:50.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IGenreRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\IGenreRepo.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Repository\\IGenreRepo.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\IGenreRepo.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Repository\\IGenreRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:52:14.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Program.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Program.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Program.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:07:21.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:54:48.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:53:03.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MusicDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Migrations\\MusicDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Migrations\\MusicDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Migrations\\MusicDBContextModelSnapshot.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Migrations\\MusicDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:38:57.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250209211745_test5.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250209211745_test5.cs",
+              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250209211745_test5.cs",
+              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250209211745_test5.cs",
+              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\Migrations\\20250209211745_test5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:17:45.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Index.cshtml",
@@ -366,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\appsettings.json",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\appsettings.json",
@@ -378,19 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T16:09:59.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "bootstrapZephyr.css",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\wwwroot\\css\\bootstrapZephyr.css",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\wwwroot\\css\\bootstrapZephyr.css",
@@ -402,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\wwwroot\\css\\site.css",
@@ -414,56 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml",
-              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T16:16:19.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml",
-              "RelativeToolTip": "ErnestSongsAlbumsShop_L00174807\\Pages\\Admin\\Genres\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T16:10:46.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MusicDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\DataAccess\\MusicDBContext.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.DataAccess\\DataAccess\\MusicDBContext.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\DataAccess\\MusicDBContext.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop.DataAccess\\DataAccess\\MusicDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T14:25:31.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "ErnestSongsAlbumsShop.Models\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\Models\\Genre.cs",
-              "RelativeToolTip": "ErnestSongsAlbumsShop.Models\\Models\\Genre.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T14:25:32.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "20250127142048_AlteringFiles.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Migrations\\20250127142048_AlteringFiles.Designer.cs",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Migrations\\20250127142048_AlteringFiles.Designer.cs",
@@ -475,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 38,
               "Title": "ErnestSongsAlbumsShop_L00174807.csproj",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807.csproj",
@@ -487,19 +666,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ernes\\AppData\\Local\\Temp\\.vsdbgsrc\\bd290bc2e88f6dc426bbb67c66358af82b1c8ea40f9b363c18fc4fe2d01fb2c7\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bd290bc2e88f6dc426bbb67c66358af82b1c8ea40f9b363c18fc4fe2d01fb2c7\\Program.cs",
               "ToolTip": "C:\\Users\\ernes\\AppData\\Local\\Temp\\.vsdbgsrc\\bd290bc2e88f6dc426bbb67c66358af82b1c8ea40f9b363c18fc4fe2d01fb2c7\\Program.cs",
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bd290bc2e88f6dc426bbb67c66358af82b1c8ea40f9b363c18fc4fe2d01fb2c7\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:12:56.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T22:12:56.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "dbo.Genres.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MusicDB/True/SqlTable/dbo.Genres.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MusicDB/True/SqlTable/dbo.Genres.sql",
@@ -508,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "dbo.Songs.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SongAlbumDB/True/SqlTable/dbo.Songs.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SongAlbumDB/True/SqlTable/dbo.Songs.sql",
@@ -517,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Error.cshtml",
@@ -529,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Privacy.cshtml",
@@ -541,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\_ViewImports.cshtml",
@@ -553,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop_L00174807\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ErnestSongsAlbumsShop_L00174807\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
