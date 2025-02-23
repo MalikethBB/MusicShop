@@ -14,6 +14,13 @@
             <span asp-validation-for="@Model.Song.Name" class="text-danger"></span>
         </div>
         <div class="mb-3">
+            <label asp-for="@Model.Song.GenreId"></label>
+            <select asp-for="@Model.Song.GenreId" asp-items="@Model.GenreList" class="form-select">
+            <option disabled selected="selected Genre ---"></option>
+            </select>
+            <span asp-validation-for="@Model.Song.GenreId" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
             <label asp-for="@Model.Song.ImageName">FileUpload</label>
             <input type="file" name="files" id="uploadBox" class="form-control" />
         </div>

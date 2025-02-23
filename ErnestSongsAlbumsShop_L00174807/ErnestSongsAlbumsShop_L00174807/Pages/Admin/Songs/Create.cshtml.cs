@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Songs
 {
+    [BindProperties]
     public class CreateModel : PageModel
     {
         private readonly IUnitOfWork unitOfWorkOps;
@@ -37,7 +38,7 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Songs
             var files = HttpContext.Request.Form.Files;
             string new_filename = Guid.NewGuid().ToString();
 
-            var upload = Path.Combine(wwwRootFolder, @"Images\Products");
+            var upload = Path.Combine(wwwRootFolder, @"Images\Songs");
 
             var extension = Path.GetExtension(files[0].FileName);
             using (var fileStream = new FileStream(Path.Combine(upload, new_filename + extension), FileMode.Create))
@@ -45,7 +46,7 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Songs
                 files[0].CopyTo(fileStream);
             }
 
-            Song.ImageName = @"Images\Proudcts\" + new_filename + extension;
+            Song.ImageName = @"Images\Songs\" + new_filename + extension;
             if (ModelState.IsValid)
             {
                 unitOfWorkOps.SongRepo.Add(song);
@@ -54,4 +55,4 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Songs
             return RedirectToPage("Index");
         }
     }
-}
+}   

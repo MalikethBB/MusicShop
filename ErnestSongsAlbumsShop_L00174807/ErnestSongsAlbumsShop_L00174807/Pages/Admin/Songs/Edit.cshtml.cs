@@ -43,7 +43,7 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Songs
             {
                 string new_filename = Guid.NewGuid().ToString();
 
-                var upload = Path.Combine(wwwRootFolder, @"Images\Products");
+                var upload = Path.Combine(wwwRootFolder, @"Images\Songs");
 
                 var extension = Path.GetExtension(files[0].FileName);
                 if (songFromDB != null)
