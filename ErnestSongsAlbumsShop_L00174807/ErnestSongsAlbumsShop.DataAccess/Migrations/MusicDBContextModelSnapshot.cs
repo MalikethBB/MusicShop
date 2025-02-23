@@ -37,6 +37,41 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
 
                     b.ToTable("Genres");
                 });
+
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Song", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("GenreId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ImageName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("GenreId");
+
+                    b.ToTable("Songs");
+                });
+
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Song", b =>
+                {
+                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.Genre", "Genre")
+                        .WithMany()
+                        .HasForeignKey("GenreId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Genre");
+                });
 #pragma warning restore 612, 618
         }
     }

@@ -11,5 +11,7 @@ namespace ErnestSongsAlbumsShop.DataAccess.DataAccess
 
         }
         public DbSet<Genre> Genres{ get; set; }
+
+        public DbSet<Song> Songs{ get; set; }
     }
 }
