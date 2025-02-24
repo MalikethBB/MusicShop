@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErnestSongsAlbumsShop.DataA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErnestSongsAlbumsShop.Models", "ErnestSongsAlbumsShop.Models\ErnestSongsAlbumsShop.Models.csproj", "{5F4B38C5-109A-4C50-ABFF-93DE51AA1B12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErnestSongsAlbumsShop.Services", "ErnestSongsAlbumsShop.Services\ErnestSongsAlbumsShop.Services.csproj", "{4DEEE36C-C9A3-438A-84EA-BA6BA2589C1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErnestSongsAlbumsShop.Services", "ErnestSongsAlbumsShop.Services\ErnestSongsAlbumsShop.Services.csproj", "{4DEEE36C-C9A3-438A-84EA-BA6BA2589C1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
