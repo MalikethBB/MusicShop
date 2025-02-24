@@ -11,7 +11,6 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
     public class Repository<T> : IRepository<T> where T : class
     {
         private readonly MusicDBContext _musicDBContext;
-
         internal DbSet<T> dbSet;
         
         public Repository(MusicDBContext musicDBContext)

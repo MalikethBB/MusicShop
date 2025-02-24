@@ -11,6 +11,8 @@ namespace ErnestSongsAlbumsShop.Services
     {
         IGenreRepo GenreRepo { get; }
 
+        ISongRepo SongRepo { get; }
+
         void Save();
     }
 }
