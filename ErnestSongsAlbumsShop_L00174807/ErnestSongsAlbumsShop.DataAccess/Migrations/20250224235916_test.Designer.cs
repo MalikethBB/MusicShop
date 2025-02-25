@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ErnestSongsAlbumsShop.DataAccess.Migrations
 {
     [DbContext(typeof(MusicDBContext))]
-    [Migration("20250223231148_test")]
+    [Migration("20250224235916_test")]
     partial class test
     {
         /// <inheritdoc />
@@ -56,6 +56,7 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

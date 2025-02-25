@@ -2848,11 +2848,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\ErnestSongsAlbumsShop.Services.csproj",
+      "projectUniqueName": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\ErnestSongsAlbumsShop.Services.csproj",
       "projectName": "ErnestSongsAlbumsShop.Services",
-      "projectPath": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\ErnestSongsAlbumsShop.Services.csproj",
+      "projectPath": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\ErnestSongsAlbumsShop.Services.csproj",
       "packagesPath": "C:\\Users\\ernes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\obj\\",
+      "outputPath": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ernes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2870,8 +2870,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ernes\\Desktop\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj"
+            "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj"
             }
           }
         }

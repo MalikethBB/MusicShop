@@ -16,12 +16,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Migrations\" />
+    <ProjectReference Include="..\ErnestSongsAlbumsShop.DataAccess\ErnestSongsAlbumsShop.DataAccess.csproj" />
+    <ProjectReference Include="..\ErnestSongsAlbumsShop.Services\ErnestSongsAlbumsShop.Services.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ErnestSongsAlbumsShop.DataAccess\ErnestSongsAlbumsShop.DataAccess.csproj" />
-    <ProjectReference Include="..\ErnestSongsAlbumsShop.Services\ErnestSongsAlbumsShop.Services.csproj" />
+    <Folder Include="wwwroot\Images\Songs\" />
   </ItemGroup>
 
 </Project>
