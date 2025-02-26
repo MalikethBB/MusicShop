@@ -25,7 +25,7 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
         }
 
         public void Delete(T obj)
-        {
+        {  
             dbSet.Remove(obj);
         }
 

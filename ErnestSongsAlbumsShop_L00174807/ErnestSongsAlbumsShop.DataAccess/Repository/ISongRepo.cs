@@ -10,5 +10,8 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
     public interface ISongRepo : IRepository<Song>
     {
         public void Update (Song song);
+
+        IEnumerable<Song> GetAll();
+
     }
 }

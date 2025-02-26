@@ -9,5 +9,7 @@ namespace ErnestSongsAlbumsShop.Models.Models
 
         [Required]
         public string? Name { get; set; }
+
+        public ICollection<Song>? Songs { get; set; }
     }
 }

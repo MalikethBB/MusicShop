@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ErnestSongsAlbumsShop_L00174807")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8f3ba26a06a5e58bd2da55299310c3f44e0337d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+870b618d82ca0c1edd40fe824a6a05abae3044db")]
 [assembly: System.Reflection.AssemblyProductAttribute("ErnestSongsAlbumsShop_L00174807")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ErnestSongsAlbumsShop_L00174807")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

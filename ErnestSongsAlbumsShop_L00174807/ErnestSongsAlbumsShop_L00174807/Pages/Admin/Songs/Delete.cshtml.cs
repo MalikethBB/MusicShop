@@ -23,11 +23,11 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Songs
             Song = _unitOfWork.SongRepo.Get(id);
         }
 
-        public IActionResult OnPost()
+        public IActionResult OnPost(Song song)
         {
             if (ModelState.IsValid)
             {
-                _unitOfWork.SongRepo.Delete(Song);
+                _unitOfWork.SongRepo.Delete(song);
                 _unitOfWork.Save();
             }
             return RedirectToPage("Index");
