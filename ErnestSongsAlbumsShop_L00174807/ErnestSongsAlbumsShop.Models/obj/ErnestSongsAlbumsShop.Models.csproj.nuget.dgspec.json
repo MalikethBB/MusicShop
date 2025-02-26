@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj": {}
+    "C:\\Users\\ernes\\source\\repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj": {
+    "C:\\Users\\ernes\\source\\repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj",
+        "projectUniqueName": "C:\\Users\\ernes\\source\\repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj",
         "projectName": "ErnestSongsAlbumsShop.Models",
-        "projectPath": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj",
+        "projectPath": "C:\\Users\\ernes\\source\\repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj",
         "packagesPath": "C:\\Users\\ernes\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\obj\\",
         "projectStyle": "PackageReference",

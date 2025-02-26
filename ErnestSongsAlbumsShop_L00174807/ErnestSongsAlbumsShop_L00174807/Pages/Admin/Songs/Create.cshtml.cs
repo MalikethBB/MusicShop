@@ -46,7 +46,7 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Songs
                 files[0].CopyTo(fileStream);
             }
 
-            Song.ImageName = @"Images\Songs\" + new_filename + extension;
+            song.ImageName = @"\Images\Songs\" + new_filename + extension;
             if (ModelState.IsValid)
             {
                 unitOfWorkOps.SongRepo.Add(song);

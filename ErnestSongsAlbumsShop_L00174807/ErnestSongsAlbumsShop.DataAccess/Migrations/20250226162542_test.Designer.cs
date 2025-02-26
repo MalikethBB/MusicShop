@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ErnestSongsAlbumsShop.DataAccess.Migrations
 {
     [DbContext(typeof(MusicDBContext))]
-    [Migration("20250224235916_test")]
+    [Migration("20250226162542_test")]
     partial class test
     {
         /// <inheritdoc />

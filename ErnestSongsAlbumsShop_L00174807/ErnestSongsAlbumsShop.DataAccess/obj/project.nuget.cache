@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mv5Z/L8c+go=",
+  "dgSpecHash": "8sH7fVQ/dDQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\ernes\\source\\repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ernes\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ernes\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

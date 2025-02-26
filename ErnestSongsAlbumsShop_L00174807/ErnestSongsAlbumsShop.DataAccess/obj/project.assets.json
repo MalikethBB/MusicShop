@@ -4756,9 +4756,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\ernes\\source\\repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj",
       "projectName": "ErnestSongsAlbumsShop.DataAccess",
-      "projectPath": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj",
+      "projectPath": "C:\\Users\\ernes\\source\\repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\ErnestSongsAlbumsShop.DataAccess.csproj",
       "packagesPath": "C:\\Users\\ernes\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
@@ -4778,8 +4778,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj": {
-              "projectPath": "C:\\Users\\ernes\\Source\\Repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj"
+            "C:\\Users\\ernes\\source\\repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj": {
+              "projectPath": "C:\\Users\\ernes\\source\\repos\\MusicShop\\ErnestSongsAlbumsShop_L00174807\\ErnestSongsAlbumsShop.Models\\ErnestSongsAlbumsShop.Models.csproj"
             }
           }
         }
