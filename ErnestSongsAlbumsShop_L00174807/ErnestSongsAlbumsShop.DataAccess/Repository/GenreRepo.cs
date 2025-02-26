@@ -26,6 +26,7 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
         {
             return _musicDBContext.Genres
                 .Include(a => a.Songs)
+                .ThenInclude(a => a.Artist)
                 .ToList();
         }
     }
