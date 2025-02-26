@@ -21,6 +21,25 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Artist", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Country")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Artists");
+                });
+
             modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Genre", b =>
                 {
                     b.Property<int>("Id")
@@ -46,6 +65,9 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("ArtistId")
+                        .HasColumnType("int");
+
                     b.Property<int>("GenreId")
                         .HasColumnType("int");
 
@@ -58,6 +80,8 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("ArtistId");
+
                     b.HasIndex("GenreId");
 
                     b.ToTable("Songs");
@@ -65,13 +89,31 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
 
             modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Song", b =>
                 {
+                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.Artist", "Artist")
+                        .WithMany("Songs")
+                        .HasForeignKey("ArtistId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("ErnestSongsAlbumsShop.Models.Models.Genre", "Genre")
-                        .WithMany()
+                        .WithMany("Songs")
                         .HasForeignKey("GenreId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.Navigation("Artist");
+
                     b.Navigation("Genre");
+                });
+
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Artist", b =>
+                {
+                    b.Navigation("Songs");
+                });
+
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Genre", b =>
+                {
+                    b.Navigation("Songs");
                 });
 #pragma warning restore 612, 618
         }

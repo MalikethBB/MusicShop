@@ -19,5 +19,8 @@ namespace ErnestSongsAlbumsShop.Models.Models
 
         public int GenreId { get; set; }
         public Genre? Genre { get; set; }
+
+        public int ArtistId { get; set; }
+        public Artist? Artist { get; set; }
     }
 }

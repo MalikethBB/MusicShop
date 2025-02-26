@@ -22,6 +22,8 @@
     <thead>
         <tr>
             <th>Songs</th>
+            <th>Artist</th>
+            <th>Genre</th>
         </tr>
     </thead>
     <tbody>
@@ -29,7 +31,8 @@
         {
             <tr>
                 <td width="50%">@obj.Name</td>
-                <td width="50%">@obj.Genre</td>
+                <td width="50%">@obj.Artist.Name</td>
+                <td width="50%">@obj.Genre.Name</td>
                 <td> <a asp-page="Edit" asp-route-id="@obj.Id">Edit</a> </td>
                 <td> <a asp-page="Delete" asp-route-id="@obj.Id">Delete</a> </td>
             </tr>

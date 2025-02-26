@@ -22,6 +22,7 @@
     <thead>
         <tr>
             <th>Genres</th>
+            <th>Songs</th>
         </tr>
     </thead>
     <tbody>
@@ -29,10 +30,23 @@
         {
             <tr>
                 <td width="50%">@obj.Name</td>
-                <td>
-                    <a asp-page="Edit" asp-route-id="@obj.Id">Edit</a>
-                    <a asp-page="Delete" asp-route-id="@obj.Id">Delete</a>
+                <td width="50%">
+                    @if (obj.Songs != null && obj.Songs.Any())
+                    {
+                        <ul>
+                            @foreach (var song in obj.Songs)
+                            {
+                                <li>@song.Name</li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <p>No songs.</p>
+                    }
                 </td>
+                <td> <a asp-page="Edit" asp-route-id="@obj.Id">Edit</a> </td>
+                <td> <a asp-page="Delete" asp-route-id="@obj.Id">Delete</a> </td>
             </tr>
         }
     </tbody>

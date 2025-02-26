@@ -22,10 +22,17 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Songs
         public Song Song { get; set; }
 
         public IEnumerable<SelectListItem> GenreList { get; set; }
+        public IEnumerable<SelectListItem> ArtistList { get; set; }
 
         public void OnGet()
         {
             GenreList = unitOfWorkOps.GenreRepo.GetAll().Select(i => new SelectListItem()
+            {
+                Text = i.Name,
+                Value = i.Id.ToString(),
+            });
+
+            ArtistList = unitOfWorkOps.ArtistRepo.GetAll().Select(i => new SelectListItem()
             {
                 Text = i.Name,
                 Value = i.Id.ToString(),

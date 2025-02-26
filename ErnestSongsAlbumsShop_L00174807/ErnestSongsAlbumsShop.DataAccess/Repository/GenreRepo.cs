@@ -1,5 +1,6 @@
 ﻿using ErnestSongsAlbumsShop.DataAccess.DataAccess;
 using ErnestSongsAlbumsShop.Models.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +20,13 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
         public void SaveAll()
         {
             _musicDBContext.SaveChanges();
+        }
+
+        public IEnumerable<Genre> GetAll()
+        {
+            return _musicDBContext.Genres
+                .Include(a => a.Songs)
+                .ToList();
         }
     }
 }

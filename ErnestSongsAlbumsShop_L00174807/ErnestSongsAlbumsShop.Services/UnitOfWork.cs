@@ -16,11 +16,14 @@ namespace ErnestSongsAlbumsShop.Services
 
         public ISongRepo SongRepo { get; private set; }
 
+        public IArtistRepo ArtistRepo { get; private set; }
+
         public UnitOfWork(MusicDBContext appDBContext)
         {
             _dbContext = appDBContext;
             GenreRepo = new GenreRepo(_dbContext);
             SongRepo = new SongRepo(_dbContext);
+            ArtistRepo = new ArtistRepo(_dbContext);
         }
 
         public void Dispose()

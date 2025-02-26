@@ -26,5 +26,13 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
             if (song.ImageName != null)
                 songFromDB.ImageName = song.ImageName;
         }
+
+        public IEnumerable<Song> GetAll()
+        {
+            return _musicDBContext.Songs
+                .Include(a => a.Artist)
+                .Include(a => a.Genre)
+                .ToList();
+        }
     }
 }
