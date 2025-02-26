@@ -36,7 +36,7 @@
                         <ul>
                             @foreach (var song in obj.Songs)
                             {
-                                <li>@song.Name</li>
+                                <li>@song.Name - @song.Artist.Name</li>
                             }
                         </ul>
                     }
