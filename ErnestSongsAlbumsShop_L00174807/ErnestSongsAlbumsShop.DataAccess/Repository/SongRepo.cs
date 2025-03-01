@@ -25,7 +25,7 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
             songFromDB.GenreId = song.GenreId;
             if (song.ImageName != null)
                 songFromDB.ImageName = song.ImageName;
-        }
+        } 
 
         public IEnumerable<Song> GetAll()
         {

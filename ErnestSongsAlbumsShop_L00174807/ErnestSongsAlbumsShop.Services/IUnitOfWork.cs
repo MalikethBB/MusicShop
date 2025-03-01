@@ -7,7 +7,7 @@ using ErnestSongsAlbumsShop.DataAccess.Repository;
 
 namespace ErnestSongsAlbumsShop.Services
 {
-    public  interface IUnitOfWork : IDisposable
+    public interface IUnitOfWork : IDisposable
     {
         IGenreRepo GenreRepo { get; }
 

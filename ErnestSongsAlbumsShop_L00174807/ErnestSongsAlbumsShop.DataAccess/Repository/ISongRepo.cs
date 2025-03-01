@@ -12,6 +12,5 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
         public void Update (Song song);
 
         IEnumerable<Song> GetAll();
-
     }
 }
