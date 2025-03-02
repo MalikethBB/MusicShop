@@ -40,6 +40,54 @@ _ReSharper.*
 # Entity Framework Migrations
 Migrations/
 
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build and output directories
+bin/
+obj/
+
+# NuGet files
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# Local development files
+*.local
+*.local.settings
+
+# Rider IDE files
+.idea/
+*.iml
+
+# ReSharper files
+_ReSharper.*
+*.DotSettings.user
+
+# macOS files
+.DS_Store
+
+# VS Code files
+.vscode/
+
+# Entity Framework Migrations (if applicable)
+Migrations/
+
+# Compiled files
+*.dll
+*.pdb
+*.exe
+
+# Scoped CSS files
+**/scopedcss/
+
+# Static web assets
+**/staticwebassets/
+
 # User-specific files
 *.rsuser
 *.suo
