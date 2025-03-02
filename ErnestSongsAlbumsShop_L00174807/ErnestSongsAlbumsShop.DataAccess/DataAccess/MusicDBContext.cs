@@ -1,9 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ErnestSongsAlbumsShop.Models.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace ErnestSongsAlbumsShop.DataAccess.DataAccess
 {
-    public class MusicDBContext : DbContext
+    public class MusicDBContext : IdentityDbContext
     {
 
         public MusicDBContext(DbContextOptions<MusicDBContext> options) : base(options)
