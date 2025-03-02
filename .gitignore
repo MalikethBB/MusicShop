@@ -7,6 +7,9 @@
 **/bin/
 **/obj/
 
+# Ignore Visual Studio-specific files
+**/.vs/
+
 # Ignore migration files (if they shouldn't be tracked)
 **/Migrations/
 # Visual Studio files
