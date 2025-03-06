@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ErnestSongsAlbumsShop.Models.Models
 {
-    public class Song
+    public class Album
     {
         [Key]
         public int Id { get; set; }
@@ -23,7 +23,6 @@ namespace ErnestSongsAlbumsShop.Models.Models
         public int ArtistId { get; set; }
         public Artist? Artist { get; set; }
 
-        public int AlbumId { get; set; }
-        public Album? Album { get; set; }
+        public List<Song>? Songs { get; set; } = new List<Song>();
     }
 }

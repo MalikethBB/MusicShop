@@ -11,5 +11,7 @@ namespace ErnestSongsAlbumsShop.Models.Models
         public string? Name { get; set; }
 
         public ICollection<Song>? Songs { get; set; }
+
+        public List<Album> Albums { get; set; } = new List<Album>();
     }
 }

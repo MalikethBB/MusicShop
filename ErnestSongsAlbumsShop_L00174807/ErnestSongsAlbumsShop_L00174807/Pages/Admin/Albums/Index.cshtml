@@ -1,0 +1,42 @@
+﻿@page
+@model ErnestSongsAlbumsShop_L00174807.Pages.Admin.Albums.IndexModel
+@{
+}
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h3 class="text-primary">Songs</h3>
+        </div>
+        <div class="col-6">
+            <a asp-page="Create" class="btn btn-primary">
+                Create new Album
+            </a>
+        </div>
+    </div>
+</div>
+
+<br /><br /><br />
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Album</th>
+            <th>Artist</th>
+            <th>Genre</th>
+            <th>Songs</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model.Albums)
+        {
+            <tr>
+                <td width="50%">@obj.Name</td>
+                <td width="50%">@obj.Artist.Name</td>
+                <td width="50%">@obj.Genre.Name</td>
+                <td width="50%">@obj.Songs</td>
+                <td> <a asp-page="Edit" asp-route-id="@obj.Id">Edit</a> </td>
+                <td> <a asp-page="Delete" asp-route-id="@obj.Id">Delete</a> </td>
+            </tr>
+        }
+    </tbody>
+</table>
