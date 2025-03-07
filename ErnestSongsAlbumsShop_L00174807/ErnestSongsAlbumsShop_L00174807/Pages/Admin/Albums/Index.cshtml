@@ -1,16 +1,15 @@
 ﻿@page
-@model IndexModel
+@model ErnestSongsAlbumsShop_L00174807.Pages.Admin.Albums.IndexModel
 @{
 }
-
 <div class="container p-3">
     <div class="row pt-4">
         <div class="col-6">
-            <h3 class="text-primary">Genres</h3>
+            <h3 class="text-primary">Albums</h3>
         </div>
         <div class="col-6">
             <a asp-page="Create" class="btn btn-primary">
-                Create new Genre
+                Create new Album
             </a>
         </div>
     </div>
@@ -21,28 +20,30 @@
 <table class="table table-bordered table-striped">
     <thead>
         <tr>
-            <th>Genres</th>
-            <th>Albums</th>
+            <th>Album</th>
+            <th>Artist</th>
+            <th>Songs</th>
         </tr>
     </thead>
     <tbody>
-        @foreach (var obj in Model.Genres)
+        @foreach (var obj in Model.Albums)
         {
             <tr>
                 <td width="50%">@obj.Name</td>
+                <td width="30%">@obj.Artist.Name</td>
                 <td width="50%">
-                    @if (obj.Albums != null && obj.Albums.Any())
+                    @if (obj.Songs != null && obj.Songs.Any())
                     {
                         <ul>
-                            @foreach (var album in obj.Albums)
+                            @foreach (var song in obj.Songs)
                             {
-                                <li>@album.Name - @album.Artist.Name</li>
+                                <li>@song.Name</li>
                             }
                         </ul>
                     }
                     else
                     {
-                        <p>No albums.</p>
+                        <p>No songs.</p>
                     }
                 </td>
                 <td> <a asp-page="Edit" asp-route-id="@obj.Id">Edit</a> </td>

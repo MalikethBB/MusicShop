@@ -21,15 +21,11 @@
             <span asp-validation-for="@Model.Song.ArtistId" class="text-danger"></span>
         </div>
         <div class="mb-3">
-            <label asp-for="@Model.Song.GenreId"></label>
-            <select asp-for="@Model.Song.GenreId" asp-items="@Model.GenreList" class="form-select">
-                <option disabled selected="selected Genre ---"></option>
+            <label asp-for="@Model.Song.AlbumId"></label>
+            <select asp-for="@Model.Song.AlbumId" asp-items="@Model.AlbumList" class="form-select">
+                <option disabled selected="selected Album ---"></option>
             </select>
-            <span asp-validation-for="@Model.Song.GenreId" class="text-danger"></span>
-        </div>
-        <div class="mb-3">
-            <label asp-for="@Model.Song.ImageName">FileUpload</label>
-            <input type="file" name="files" id="uploadBox" class="form-control" />
+            <span asp-validation-for="@Model.Song.AlbumId" class="text-danger"></span>
         </div>
         <div>
             <button type="submit" class="btn btn-primary">Create</button>

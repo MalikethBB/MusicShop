@@ -13,7 +13,7 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Customer.Home
             _unitOfWork = unitOfWork;
         }
 
-        public IEnumerable<Song> listOfSongs{ get; set; }
+        public IEnumerable<Album> listOfAlbums{ get; set; }
         public IEnumerable<Genre> listOfGenres{ get; set; }
 
         [BindProperty(SupportsGet = true)]
@@ -21,12 +21,12 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Customer.Home
 
         public void OnGet()
         {
-            listOfSongs = _unitOfWork.SongRepo.GetAll();
+            listOfAlbums = _unitOfWork.AlbumRepo.GetAll();
             listOfGenres = _unitOfWork.GenreRepo.GetAll();
 
             if (!string.IsNullOrEmpty(SearchString))
             {
-                listOfSongs= listOfSongs.Where(p => p.Name.Contains(SearchString, StringComparison.OrdinalIgnoreCase));
+                listOfAlbums= listOfAlbums.Where(p => p.Name.Contains(SearchString, StringComparison.OrdinalIgnoreCase));
             }
         }
     }
