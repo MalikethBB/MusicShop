@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace ErnestSongsAlbumsShop.DataAccess.Repository
 {
-    public interface IAlbumRepo : IRepository<Album>
+    public interface IApplicationUserRepo : IRepository<ApplicationUser>
     {
-        public void Update(Album album);
+        ApplicationUser Get(String s);
+        public void Update(ApplicationUser applicationUser)
+        {
 
-        IEnumerable<Album> GetAll();  
-
-        Album GetAlbumGenre(int id);
+        }
     }
 }

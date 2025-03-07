@@ -2,3 +2,45 @@
 @model ErnestSongsAlbumsShop_L00174807.Pages.Admin.Albums.EditModel
 @{
 }
+<form method="post">
+    <input hidden asp-for="Album.Id" />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary pl-3">Edit Genre</h2>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Album.Name"></label>
+            <input asp-for="@Model.Album.Name" class="form-control" />
+            <span asp-validation-for="@Model.Album.Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Album.ArtistId"></label>
+            <select asp-for="@Model.Album.ArtistId" asp-items="@Model.ArtistList" class="form-select">
+                <option disabled selected="selected Artist ---"></option>
+            </select>
+            <span asp-validation-for="@Model.Album.ArtistId" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Album.GenreId"></label>
+            <select asp-for="@Model.Album.GenreId" asp-items="@Model.GenreList" class="form-select">
+                <option disabled selected="selected Genre ---"></option>
+            </select>
+            <span asp-validation-for="@Model.Album.GenreId" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Album.ImageName">FileUpload</label>
+            <input type="file" name="files" id="uploadBox" class="form-control" />
+        </div>
+        <div class="col-3">
+            <img src="@Model.Album.ImageName" />
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+        <a asp-page="Index" class="btn btn-secondary">Back to Index</a>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_validationScriptsPartial" />
+    }
+}

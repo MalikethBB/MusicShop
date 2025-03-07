@@ -21,17 +21,15 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
         {
             var songFromDB = _musicDBContext.Songs.
                 FirstOrDefault(songFromDB => songFromDB.Id == song.Id);
+
             songFromDB.Name = song.Name;
-            songFromDB.GenreId = song.GenreId;
-            if (song.ImageName != null)
-                songFromDB.ImageName = song.ImageName;
-        } 
+        }
 
         public IEnumerable<Song> GetAll()
         {
             return _musicDBContext.Songs
                 .Include(a => a.Artist)
-                .Include(a => a.Genre)
+                .Include(a => a.Album)
                 .ToList();
         }
     }

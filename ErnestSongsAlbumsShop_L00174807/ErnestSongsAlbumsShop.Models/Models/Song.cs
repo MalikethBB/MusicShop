@@ -15,11 +15,6 @@ namespace ErnestSongsAlbumsShop.Models.Models
         [Required]
         public string? Name { get; set; }
 
-        public string? ImageName { get; set; }
-
-        public int GenreId { get; set; }
-        public Genre? Genre { get; set; }
-
         public int ArtistId { get; set; }
         public Artist? Artist { get; set; }
 

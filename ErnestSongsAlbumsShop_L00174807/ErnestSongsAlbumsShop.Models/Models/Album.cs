@@ -23,6 +23,8 @@ namespace ErnestSongsAlbumsShop.Models.Models
         public int ArtistId { get; set; }
         public Artist? Artist { get; set; }
 
+        public float? Price { get; set; }
+
         public List<Song>? Songs { get; set; } = new List<Song>();
     }
 }

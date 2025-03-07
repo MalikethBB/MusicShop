@@ -41,42 +41,15 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
                 .ToList();
         }
 
-        public void AddSongToAlbum(int albumId, Song song)
+        Album IAlbumRepo.GetAlbumGenre(int id)
         {
-            var album = _musicDBContext.Albums
+            var album = _musicDBContext.Albums.
+                Include(a => a.Genre)
                 .Include(a => a.Songs)
-                .FirstOrDefault(a => a.Id == albumId);
+                .Include(a => a.Artist)
+                .FirstOrDefault(a => a.Id == id);
 
-            if (album != null)
-            {
-                song.AlbumId = albumId;
-                album.Songs.Add(song);
-                _musicDBContext.SaveChanges();
-            }
-        }
-
-        public void UpdateSong(Song song)
-        {
-            var songFromDB = _musicDBContext.Songs
-                .FirstOrDefault(s => s.Id == song.Id);
-
-            if (songFromDB != null)
-            {
-                songFromDB.Name= song.Name;
-                _musicDBContext.SaveChanges();
-            }
-        }
-
-        public void RemoveSongFromAlbum(int songId)
-        {
-            var songFromDB = _musicDBContext.Songs
-                .FirstOrDefault(s => s.Id == songId);
-
-            if (songFromDB != null)
-            {
-                _musicDBContext.Songs.Remove(songFromDB);
-                _musicDBContext.SaveChanges();
-            }
+            return album;
         }
     }
 }

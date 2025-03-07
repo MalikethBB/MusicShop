@@ -21,18 +21,18 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Songs
 
         public Song Song { get; set; }
 
-        public IEnumerable<SelectListItem> GenreList { get; set; }
         public IEnumerable<SelectListItem> ArtistList { get; set; }
+        public IEnumerable<SelectListItem> AlbumList { get; set; }
 
         public void OnGet()
         {
-            GenreList = unitOfWorkOps.GenreRepo.GetAll().Select(i => new SelectListItem()
+            ArtistList = unitOfWorkOps.ArtistRepo.GetAll().Select(i => new SelectListItem()
             {
                 Text = i.Name,
                 Value = i.Id.ToString(),
             });
 
-            ArtistList = unitOfWorkOps.ArtistRepo.GetAll().Select(i => new SelectListItem()
+            AlbumList = unitOfWorkOps.AlbumRepo.GetAll().Select(i => new SelectListItem()
             {
                 Text = i.Name,
                 Value = i.Id.ToString(),
@@ -41,19 +41,6 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Songs
 
         public IActionResult OnPost(Song song)
         {
-            string wwwRootFolder = _webHostEnvironment.WebRootPath;
-            var files = HttpContext.Request.Form.Files;
-            string new_filename = Guid.NewGuid().ToString();
-
-            var upload = Path.Combine(wwwRootFolder, @"Images\Songs");
-
-            var extension = Path.GetExtension(files[0].FileName);
-            using (var fileStream = new FileStream(Path.Combine(upload, new_filename + extension), FileMode.Create))
-            {
-                files[0].CopyTo(fileStream);
-            }
-
-            song.ImageName = @"\Images\Songs\" + new_filename + extension;
             if (ModelState.IsValid)
             {
                 unitOfWorkOps.SongRepo.Add(song);

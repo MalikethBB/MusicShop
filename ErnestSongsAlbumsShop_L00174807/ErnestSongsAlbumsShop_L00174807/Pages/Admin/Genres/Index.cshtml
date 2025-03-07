@@ -22,7 +22,7 @@
     <thead>
         <tr>
             <th>Genres</th>
-            <th>Songs</th>
+            <th>Albums</th>
         </tr>
     </thead>
     <tbody>
@@ -31,18 +31,18 @@
             <tr>
                 <td width="50%">@obj.Name</td>
                 <td width="50%">
-                    @if (obj.Songs != null && obj.Songs.Any())
+                    @if (obj.Albums != null && obj.Albums.Any())
                     {
                         <ul>
-                            @foreach (var song in obj.Songs)
+                            @foreach (var album in obj.Albums)
                             {
-                                <li>@song.Name - @song.Artist.Name</li>
+                                <li>@album.Name - @album.Artist.Name</li>
                             }
                         </ul>
                     }
                     else
                     {
-                        <p>No songs.</p>
+                        <p>No albums.</p>
                     }
                 </td>
                 <td> <a asp-page="Edit" asp-route-id="@obj.Id">Edit</a> </td>

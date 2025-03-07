@@ -25,8 +25,8 @@ namespace ErnestSongsAlbumsShop.DataAccess.Repository
         public IEnumerable<Genre> GetAll()
         {
             return _musicDBContext.Genres
-                .Include(a => a.Songs)
-                .ThenInclude(a => a.Artist)
+                .Include(a => a.Albums)
+                .ThenInclude(g => g.Artist)
                 .ToList();
         }
     }

@@ -43,6 +43,9 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<float?>("Price")
+                        .HasColumnType("real");
+
                     b.HasKey("Id");
 
                     b.HasIndex("ArtistId");
@@ -88,6 +91,100 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
                     b.ToTable("Genres");
                 });
 
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Order", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<string>("CustomerName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("DateOfOrder")
+                        .HasColumnType("Date");
+
+                    b.Property<int?>("OrderID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("PhoneNumber")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<float>("TotalAMtDue")
+                        .HasColumnType("real");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("ID");
+
+                    b.HasIndex("OrderID");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Orders");
+                });
+
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.OrderItem", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("AlbumId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("OrderID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("QtyOrdered")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AlbumId");
+
+                    b.HasIndex("OrderID");
+
+                    b.ToTable("OrderItems");
+                });
+
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.ShoppingCart", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("AlbumId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ApplicationUserID")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<float>("CartTotal")
+                        .HasColumnType("real");
+
+                    b.Property<int>("Quantity")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AlbumId");
+
+                    b.HasIndex("ApplicationUserID");
+
+                    b.ToTable("ShoppingCarts");
+                });
+
             modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Song", b =>
                 {
                     b.Property<int>("Id")
@@ -102,12 +199,6 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
                     b.Property<int>("ArtistId")
                         .HasColumnType("int");
 
-                    b.Property<int>("GenreId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("ImageName")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -117,8 +208,6 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
                     b.HasIndex("AlbumId");
 
                     b.HasIndex("ArtistId");
-
-                    b.HasIndex("GenreId");
 
                     b.ToTable("Songs");
                 });
@@ -187,6 +276,11 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
                         .IsConcurrencyToken()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasMaxLength(21)
+                        .HasColumnType("nvarchar(21)");
+
                     b.Property<string>("Email")
                         .HasMaxLength(256)
                         .HasColumnType("nvarchar(256)");
@@ -238,6 +332,10 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
                         .HasFilter("[NormalizedUserName] IS NOT NULL");
 
                     b.ToTable("AspNetUsers", (string)null);
+
+                    b.HasDiscriminator().HasValue("IdentityUser");
+
+                    b.UseTphMappingStrategy();
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
@@ -321,18 +419,33 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.ApplicationUser", b =>
+                {
+                    b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
+
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasDiscriminator().HasValue("ApplicationUser");
+                });
+
             modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Album", b =>
                 {
                     b.HasOne("ErnestSongsAlbumsShop.Models.Models.Artist", "Artist")
                         .WithMany("Albums")
                         .HasForeignKey("ArtistId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("ErnestSongsAlbumsShop.Models.Models.Genre", "Genre")
                         .WithMany("Albums")
                         .HasForeignKey("GenreId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Artist");
@@ -340,31 +453,76 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
                     b.Navigation("Genre");
                 });
 
-            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Song", b =>
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Order", b =>
+                {
+                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.Order", null)
+                        .WithMany("OrderDetails")
+                        .HasForeignKey("OrderID");
+
+                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ApplicationUser");
+                });
+
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.OrderItem", b =>
                 {
                     b.HasOne("ErnestSongsAlbumsShop.Models.Models.Album", "Album")
-                        .WithMany("Songs")
+                        .WithMany()
                         .HasForeignKey("AlbumId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.Artist", "Artist")
-                        .WithMany("Songs")
-                        .HasForeignKey("ArtistId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.Genre", "Genre")
-                        .WithMany("Songs")
-                        .HasForeignKey("GenreId")
+                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.Order", "Order")
+                        .WithMany()
+                        .HasForeignKey("OrderID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Album");
 
-                    b.Navigation("Artist");
+                    b.Navigation("Order");
+                });
 
-                    b.Navigation("Genre");
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.ShoppingCart", b =>
+                {
+                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.Album", "Album")
+                        .WithMany()
+                        .HasForeignKey("AlbumId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("ApplicationUserID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Album");
+
+                    b.Navigation("ApplicationUser");
+                });
+
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Song", b =>
+                {
+                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.Album", "Album")
+                        .WithMany("Songs")
+                        .HasForeignKey("AlbumId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("ErnestSongsAlbumsShop.Models.Models.Artist", "Artist")
+                        .WithMany("Songs")
+                        .HasForeignKey("ArtistId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Album");
+
+                    b.Navigation("Artist");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -433,8 +591,11 @@ namespace ErnestSongsAlbumsShop.DataAccess.Migrations
             modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Genre", b =>
                 {
                     b.Navigation("Albums");
+                });
 
-                    b.Navigation("Songs");
+            modelBuilder.Entity("ErnestSongsAlbumsShop.Models.Models.Order", b =>
+                {
+                    b.Navigation("OrderDetails");
                 });
 #pragma warning restore 612, 618
         }

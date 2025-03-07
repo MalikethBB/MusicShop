@@ -19,7 +19,6 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Albums
         }
 
         public Album Album { get; set; }
-        public List<Song> Songs { get; set; }
 
         public IEnumerable<SelectListItem> GenreList { get; set; }
         public IEnumerable<SelectListItem> ArtistList { get; set; }
@@ -43,27 +42,34 @@ namespace ErnestSongsAlbumsShop_L00174807.Pages.Admin.Albums
         {
             string wwwRootFolder = _webHostEnvironment.WebRootPath;
             var files = HttpContext.Request.Form.Files;
-            string new_filename = Guid.NewGuid().ToString();
 
-            var upload = Path.Combine(wwwRootFolder, @"Images\Albums");
-
-            var extension = Path.GetExtension(files[0].FileName);
-            using (var fileStream = new FileStream(Path.Combine(upload, new_filename + extension), FileMode.Create))
+            if (files.Count > 0)
             {
-                files[0].CopyTo(fileStream);
+                string new_filename = Guid.NewGuid().ToString();
+                var upload = Path.Combine(wwwRootFolder, @"Images\Albums");
+
+                if (!Directory.Exists(upload))
+                {
+                    Directory.CreateDirectory(upload);
+                }
+
+                var extension = Path.GetExtension(files[0].FileName);
+                var filePath = Path.Combine(upload, new_filename + extension);
+
+                using (var fileStream = new FileStream(filePath, FileMode.Create))
+                {
+                    files[0].CopyTo(fileStream);
+                }
+
+                album.ImageName = @"\Images\Albums\" + new_filename + extension;
             }
 
-            album.ImageName = @"\Images\Albums\" + new_filename + extension;
             if (ModelState.IsValid)
             {
                 unitOfWorkOps.AlbumRepo.Add(album);
                 unitOfWorkOps.Save();
-
-                foreach (var song in Songs)
-                {
-                    unitOfWorkOps.AlbumRepo.AddSongToAlbum(Album.Id, song);
-                }
             }
+
             return RedirectToPage("Index");
         }
     }
